@@ -1,0 +1,108 @@
+2019-10-18 11:06:08,793 ERROR 12092 [-/127.0.0.1/-/11ms GET /some] nodejs.SyntaxError: Invalid or unexpected token
+(function (exports, require, module, __filename, __dirname) { C:\Users\menghuan\Desktop\Project\egg\helloWorld\app\view\some\list.vue
+                                                                ^
+
+SyntaxError: Invalid or unexpected token
+    at new Script (vm.js:83:7)
+    at getCompiledScript (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9270:18)
+    at evaluateModule (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9285:18)
+    at C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9339:17
+    at new Promise (<anonymous>)
+    at C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9337:14
+    at Object.renderToString (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9529:9)
+    at Promise (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-view-vue\lib\engine.js:48:62)
+    at new Promise (<anonymous>)
+    at Engine.renderBundle (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-view-vue\lib\engine.js:47:12)
+
+pid: 12092
+hostname: DESKTOP-2TBB92E
+
+2019-10-18 11:06:11,449 ERROR 12092 [-/127.0.0.1/-/2ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find home/index.js from C:\Users\menghuan\Desktop\Project\egg\helloWorld\app\view
+    at Map.resolve (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-view\lib\view_manager.js:74:5)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 12092
+hostname: DESKTOP-2TBB92E
+
+2019-10-18 11:08:20,090 ERROR 20316 [-/127.0.0.1/-/6ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find home/index.js from C:\Users\menghuan\Desktop\Project\egg\helloWorld\app\view
+    at Map.resolve (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-view\lib\view_manager.js:74:5)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 20316
+hostname: DESKTOP-2TBB92E
+
+2019-10-18 11:08:42,416 ERROR 9624 [-/127.0.0.1/-/7ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find home/index.js from C:\Users\menghuan\Desktop\Project\egg\helloWorld\app\view
+    at Map.resolve (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-view\lib\view_manager.js:74:5)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 9624
+hostname: DESKTOP-2TBB92E
+
+2019-10-18 11:09:25,067 ERROR 23864 [-/127.0.0.1/-/11ms GET /] nodejs.SyntaxError: Unexpected token <
+(function (exports, require, module, __filename, __dirname) { <template>
+                                                              ^
+
+SyntaxError: Unexpected token <
+    at new Script (vm.js:83:7)
+    at getCompiledScript (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9270:18)
+    at evaluateModule (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9285:18)
+    at C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9339:17
+    at new Promise (<anonymous>)
+    at C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9337:14
+    at Object.renderToString (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9529:9)
+    at Promise (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-view-vue\lib\engine.js:48:62)
+    at new Promise (<anonymous>)
+    at Engine.renderBundle (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-view-vue\lib\engine.js:47:12)
+
+pid: 23864
+hostname: DESKTOP-2TBB92E
+
+2019-10-18 11:09:25,950 ERROR 23864 [-/127.0.0.1/-/1ms GET /] nodejs.SyntaxError: Unexpected token <
+(function (exports, require, module, __filename, __dirname) { <template>
+                                                              ^
+
+SyntaxError: Unexpected token <
+    at new Script (vm.js:83:7)
+    at getCompiledScript (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9270:18)
+    at evaluateModule (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9285:18)
+    at C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9339:17
+    at new Promise (<anonymous>)
+    at C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9337:14
+    at Object.renderToString (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9529:9)
+    at Promise (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-view-vue\lib\engine.js:48:62)
+    at new Promise (<anonymous>)
+    at Engine.renderBundle (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-view-vue\lib\engine.js:47:12)
+
+pid: 23864
+hostname: DESKTOP-2TBB92E
+
+2019-10-18 11:09:32,686 ERROR 23864 [-/127.0.0.1/-/2ms GET /] nodejs.TypeError: Cannot read property 'render' of undefined
+    at normalizeRender (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:8234:20)
+    at render (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:8638:5)
+    at Object.renderToString (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9168:9)
+    at C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9534:22
+
+pid: 23864
+hostname: DESKTOP-2TBB92E
+
+2019-10-18 11:09:33,455 ERROR 23864 [-/127.0.0.1/-/3ms GET /] nodejs.TypeError: Cannot read property 'render' of undefined
+    at normalizeRender (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:8234:20)
+    at render (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:8638:5)
+    at Object.renderToString (C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9168:9)
+    at C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\vue-server-renderer\build.dev.js:9534:22
+
+pid: 23864
+hostname: DESKTOP-2TBB92E
+

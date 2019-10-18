@@ -1,0 +1,98 @@
+2019-10-18 11:02:46,241 INFO 17576 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\logs\\hello-world","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hello-world-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-18 11:02:46,273 INFO 17576 [egg-multipart] stream mode enable
+2019-10-18 11:02:46,362 INFO 17576 [egg-static] starting static serve /public/ -> C:\Users\menghuan\Desktop\Project\egg\helloWorld\app\public
+2019-10-18 11:02:46,366 INFO 17576 [egg-security] use csrf middleware
+2019-10-18 11:02:46,367 INFO 17576 [egg-security] use methodnoallow middleware
+2019-10-18 11:02:46,368 INFO 17576 [egg-security] use noopen middleware
+2019-10-18 11:02:46,370 INFO 17576 [egg-security] use nosniff middleware
+2019-10-18 11:02:46,370 INFO 17576 [egg-security] use xssProtection middleware
+2019-10-18 11:02:46,371 INFO 17576 [egg-security] use xframe middleware
+2019-10-18 11:02:46,371 INFO 17576 [egg-security] use dta middleware
+2019-10-18 11:02:46,371 INFO 17576 [egg-security] compose 7 middlewares into one security middleware
+2019-10-18 11:02:46,382 INFO 17576 [egg:core] dump config after load, 6ms
+2019-10-18 11:02:46,400 INFO 17576 [egg-watcher:application] watcher start success
+2019-10-18 11:02:46,407 INFO 17576 [egg:core] dump config after ready, 5ms
+2019-10-18 11:05:37,847 INFO 20876 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\logs\\hello-world","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hello-world-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-18 11:05:37,890 INFO 20876 [egg-multipart] stream mode enable
+2019-10-18 11:05:37,994 INFO 20876 [egg-static] starting static serve /public/ -> C:\Users\menghuan\Desktop\Project\egg\helloWorld\app\public
+2019-10-18 11:05:37,998 INFO 20876 [egg-security] use csrf middleware
+2019-10-18 11:05:38,000 INFO 20876 [egg-security] use methodnoallow middleware
+2019-10-18 11:05:38,000 INFO 20876 [egg-security] use noopen middleware
+2019-10-18 11:05:38,002 INFO 20876 [egg-security] use nosniff middleware
+2019-10-18 11:05:38,003 INFO 20876 [egg-security] use xssProtection middleware
+2019-10-18 11:05:38,003 INFO 20876 [egg-security] use xframe middleware
+2019-10-18 11:05:38,004 INFO 20876 [egg-security] use dta middleware
+2019-10-18 11:05:38,004 INFO 20876 [egg-security] compose 7 middlewares into one security middleware
+2019-10-18 11:05:38,020 INFO 20876 [egg:core] dump config after load, 9ms
+2019-10-18 11:05:38,041 INFO 20876 [egg-watcher:application] watcher start success
+2019-10-18 11:05:38,053 INFO 20876 [egg:core] dump config after ready, 5ms
+2019-10-18 11:06:01,107 INFO 12092 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\logs\\hello-world","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hello-world-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-18 11:06:01,144 INFO 12092 [egg-multipart] stream mode enable
+2019-10-18 11:06:01,239 INFO 12092 [egg-static] starting static serve /public/ -> C:\Users\menghuan\Desktop\Project\egg\helloWorld\app\public
+2019-10-18 11:06:01,242 INFO 12092 [egg-security] use csrf middleware
+2019-10-18 11:06:01,244 INFO 12092 [egg-security] use methodnoallow middleware
+2019-10-18 11:06:01,245 INFO 12092 [egg-security] use noopen middleware
+2019-10-18 11:06:01,246 INFO 12092 [egg-security] use nosniff middleware
+2019-10-18 11:06:01,247 INFO 12092 [egg-security] use xssProtection middleware
+2019-10-18 11:06:01,247 INFO 12092 [egg-security] use xframe middleware
+2019-10-18 11:06:01,248 INFO 12092 [egg-security] use dta middleware
+2019-10-18 11:06:01,248 INFO 12092 [egg-security] compose 7 middlewares into one security middleware
+2019-10-18 11:06:01,261 INFO 12092 [egg:core] dump config after load, 6ms
+2019-10-18 11:06:01,276 INFO 12092 [egg-watcher:application] watcher start success
+2019-10-18 11:06:01,284 INFO 12092 [egg:core] dump config after ready, 5ms
+2019-10-18 11:08:19,765 INFO 20316 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\logs\\hello-world","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hello-world-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-18 11:08:19,794 INFO 20316 [egg-multipart] stream mode enable
+2019-10-18 11:08:19,873 INFO 20316 [egg-static] starting static serve /public/ -> C:\Users\menghuan\Desktop\Project\egg\helloWorld\app\public
+2019-10-18 11:08:19,876 INFO 20316 [egg-security] use csrf middleware
+2019-10-18 11:08:19,877 INFO 20316 [egg-security] use methodnoallow middleware
+2019-10-18 11:08:19,878 INFO 20316 [egg-security] use noopen middleware
+2019-10-18 11:08:19,879 INFO 20316 [egg-security] use nosniff middleware
+2019-10-18 11:08:19,879 INFO 20316 [egg-security] use xssProtection middleware
+2019-10-18 11:08:19,880 INFO 20316 [egg-security] use xframe middleware
+2019-10-18 11:08:19,880 INFO 20316 [egg-security] use dta middleware
+2019-10-18 11:08:19,880 INFO 20316 [egg-security] compose 7 middlewares into one security middleware
+2019-10-18 11:08:19,891 INFO 20316 [egg:core] dump config after load, 6ms
+2019-10-18 11:08:19,904 INFO 20316 [egg-watcher:application] watcher start success
+2019-10-18 11:08:19,913 INFO 20316 [egg:core] dump config after ready, 7ms
+2019-10-18 11:08:21,324 INFO 1352 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\logs\\hello-world","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hello-world-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-18 11:08:21,359 INFO 1352 [egg-multipart] stream mode enable
+2019-10-18 11:08:21,442 INFO 1352 [egg-static] starting static serve /public/ -> C:\Users\menghuan\Desktop\Project\egg\helloWorld\app\public
+2019-10-18 11:08:21,446 INFO 1352 [egg-security] use csrf middleware
+2019-10-18 11:08:21,448 INFO 1352 [egg-security] use methodnoallow middleware
+2019-10-18 11:08:21,448 INFO 1352 [egg-security] use noopen middleware
+2019-10-18 11:08:21,449 INFO 1352 [egg-security] use nosniff middleware
+2019-10-18 11:08:21,450 INFO 1352 [egg-security] use xssProtection middleware
+2019-10-18 11:08:21,450 INFO 1352 [egg-security] use xframe middleware
+2019-10-18 11:08:21,451 INFO 1352 [egg-security] use dta middleware
+2019-10-18 11:08:21,451 INFO 1352 [egg-security] compose 7 middlewares into one security middleware
+2019-10-18 11:08:21,461 INFO 1352 [egg:core] dump config after load, 5ms
+2019-10-18 11:08:21,474 INFO 1352 [egg-watcher:application] watcher start success
+2019-10-18 11:08:21,486 INFO 1352 [egg:core] dump config after ready, 6ms
+2019-10-18 11:08:32,053 INFO 9624 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\logs\\hello-world","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hello-world-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-18 11:08:32,080 INFO 9624 [egg-multipart] stream mode enable
+2019-10-18 11:08:32,153 INFO 9624 [egg-static] starting static serve /public/ -> C:\Users\menghuan\Desktop\Project\egg\helloWorld\app\public
+2019-10-18 11:08:32,157 INFO 9624 [egg-security] use csrf middleware
+2019-10-18 11:08:32,158 INFO 9624 [egg-security] use methodnoallow middleware
+2019-10-18 11:08:32,158 INFO 9624 [egg-security] use noopen middleware
+2019-10-18 11:08:32,159 INFO 9624 [egg-security] use nosniff middleware
+2019-10-18 11:08:32,160 INFO 9624 [egg-security] use xssProtection middleware
+2019-10-18 11:08:32,160 INFO 9624 [egg-security] use xframe middleware
+2019-10-18 11:08:32,161 INFO 9624 [egg-security] use dta middleware
+2019-10-18 11:08:32,161 INFO 9624 [egg-security] compose 7 middlewares into one security middleware
+2019-10-18 11:08:32,171 INFO 9624 [egg:core] dump config after load, 5ms
+2019-10-18 11:08:32,183 INFO 9624 [egg-watcher:application] watcher start success
+2019-10-18 11:08:32,190 INFO 9624 [egg:core] dump config after ready, 4ms
+2019-10-18 11:08:42,966 INFO 23864 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\logs\\hello-world","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hello-world-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-18 11:08:42,996 INFO 23864 [egg-multipart] stream mode enable
+2019-10-18 11:08:43,072 INFO 23864 [egg-static] starting static serve /public/ -> C:\Users\menghuan\Desktop\Project\egg\helloWorld\app\public
+2019-10-18 11:08:43,075 INFO 23864 [egg-security] use csrf middleware
+2019-10-18 11:08:43,076 INFO 23864 [egg-security] use methodnoallow middleware
+2019-10-18 11:08:43,077 INFO 23864 [egg-security] use noopen middleware
+2019-10-18 11:08:43,078 INFO 23864 [egg-security] use nosniff middleware
+2019-10-18 11:08:43,078 INFO 23864 [egg-security] use xssProtection middleware
+2019-10-18 11:08:43,079 INFO 23864 [egg-security] use xframe middleware
+2019-10-18 11:08:43,079 INFO 23864 [egg-security] use dta middleware
+2019-10-18 11:08:43,079 INFO 23864 [egg-security] compose 7 middlewares into one security middleware
+2019-10-18 11:08:43,089 INFO 23864 [egg:core] dump config after load, 5ms
+2019-10-18 11:08:43,101 INFO 23864 [egg-watcher:application] watcher start success
+2019-10-18 11:08:43,110 INFO 23864 [egg:core] dump config after ready, 4ms

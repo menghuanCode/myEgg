@@ -5,15 +5,17 @@
     "defaultViewEngine": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\config\\config.default.js",
     "defaultExtension": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\config\\config.default.js",
     "root": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-view\\config\\config.default.js",
-    "cache": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-view\\config\\config.default.js",
-    "mapping": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-view\\config\\config.default.js"
+    "cache": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-view\\config\\config.local.js",
+    "mapping": {
+      ".js": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-view-vue\\config\\config.default.js"
+    }
   },
   "news": {
     "pageSize": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\config\\config.default.js",
     "serverUrl": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\config\\config.default.js"
   },
   "robot": {
-    "ua": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\config\\config.default.js"
+    "ua": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\config\\config.local.js"
   },
   "session": {
     "maxAge": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-session\\config\\config.default.js",
@@ -42,7 +44,7 @@
       "value": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-security\\config\\config.default.js"
     },
     "hsts": {
-      "enable": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-security\\config\\config.default.js",
+      "enable": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-security\\config\\config.local.js",
       "maxAge": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-security\\config\\config.default.js",
       "includeSubdomains": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-security\\config\\config.default.js"
     },
@@ -97,7 +99,7 @@
     "cookieMaxAge": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-i18n\\config\\config.default.js"
   },
   "watcher": {
-    "type": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-watcher\\config\\config.unittest.js",
+    "type": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-watcher\\config\\config.local.js",
     "eventSources": {
       "default": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-watcher\\config\\config.default.js",
       "development": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-watcher\\config\\config.default.js"
@@ -128,6 +130,13 @@
       "cron": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-multipart\\config\\config.default.js"
     }
   },
+  "development": {
+    "watchDirs": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-development\\config\\config.default.js"
+  },
   "logrotator": {
     "filesRotateByHour": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-logrotator\\config\\config.default.js",
     "hourDelimiter": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-logrotator\\config\\config.default.js",
@@ -145,12 +154,8 @@
     "buffer": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-static\\config\\config.default.js",
     "maxFiles": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-static\\config\\config.default.js"
   },
-  "nunjucks": {
-    "autoescape": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
-    "throwOnUndefined": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
-    "trimBlocks": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
-    "lstripBlocks": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
-    "cache": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-view-nunjucks\\config\\config.default.js"
+  "vue": {
+    "cache": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg-view-vue\\config\\config.local.js"
   },
   "env": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
   "name": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
@@ -167,7 +172,7 @@
     },
     "dependencies": {
       "egg": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
-      "egg-view-nunjucks": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-vue": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
       "moment": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {
@@ -213,15 +218,17 @@
     "encoding": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
     "env": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
     "level": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
-    "consoleLevel": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.unittest.js",
+    "consoleLevel": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
     "disableConsoleAfterReady": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
     "outputJSON": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
-    "buffer": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.unittest.js",
+    "buffer": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
     "appLogName": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
     "coreLogName": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
     "agentLogName": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
     "errorLogName": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
-    "coreLogger": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.local.js"
+    },
     "allowDebugAtProd": "C:\\Users\\menghuan\\Desktop\\Project\\egg\\helloWorld\\node_modules\\egg\\config\\config.default.js"
   },
   "httpclient": {

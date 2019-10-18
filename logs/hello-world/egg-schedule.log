@@ -1,0 +1,24 @@
+2019-10-18 11:02:46,417 INFO 12552 [Timer] C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 62833588ms at 2019-10-19 04:30:00.005
+2019-10-18 11:02:46,417 INFO 12552 [Timer] C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 46633583ms at 2019-10-19 00:00:00.000
+2019-10-18 11:02:46,418 INFO 12552 [Timer] C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 46634582ms at 2019-10-19 00:00:01.000
+2019-10-18 11:02:46,272 INFO 17576 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-10-18 11:02:46,272 INFO 17576 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-10-18 11:02:46,272 INFO 17576 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-10-18 11:05:37,890 INFO 20876 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-10-18 11:05:37,890 INFO 20876 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-10-18 11:05:37,890 INFO 20876 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-10-18 11:06:01,143 INFO 12092 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-10-18 11:06:01,143 INFO 12092 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-10-18 11:06:01,143 INFO 12092 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-10-18 11:08:19,793 INFO 20316 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-10-18 11:08:19,793 INFO 20316 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-10-18 11:08:19,793 INFO 20316 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-10-18 11:08:21,358 INFO 1352 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-10-18 11:08:21,358 INFO 1352 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-10-18 11:08:21,358 INFO 1352 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-10-18 11:08:32,080 INFO 9624 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-10-18 11:08:32,080 INFO 9624 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-10-18 11:08:32,080 INFO 9624 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-10-18 11:08:42,996 INFO 23864 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-10-18 11:08:42,996 INFO 23864 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-10-18 11:08:42,996 INFO 23864 [egg-schedule]: register schedule C:\Users\menghuan\Desktop\Project\egg\helloWorld\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

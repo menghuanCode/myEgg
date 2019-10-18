@@ -1,5 +1,5 @@
-exports.nunjucks = {
+exports.vue = {
     enable: true,
-    package: 'egg-view-nunjucks'
+    package: 'egg-view-vue'
 }
 

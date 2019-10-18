@@ -21,8 +21,15 @@ module.exports = appInfo => {
         //    mapping: {
         //        '.tpl': 'nujucks'
         //    },
-           defaultViewEngine: 'nunjucks',
-           defaultExtension: '.tpl'
+           defaultViewEngine: 'vue',
+           defaultExtension: '.vue'
+       },
+       vue: {
+           renderOptions: {
+            template: '<!DOCTYPE html><html lang="en"><body><!--vue-ssr-outlet--></body></html>',
+            // webpack vue ssr plugin build manifest file
+            // clientManifest: require(path.join(app.baseDir,'public/vue-ssr-client-manifest.json')),
+           }
        },
        news: {
            pageSize: 5,
