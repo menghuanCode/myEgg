@@ -7,7 +7,7 @@
   "dependencies": {
     "egg": "^2.24.0",
     "egg-view-vue": "^1.0.0",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "egg-bin": "^4.14.0",
